@@ -1,6 +1,6 @@
 cask "rae-proxy" do
-  version "1.3.1"
-  sha256 "c520fb007c53abefc1f31d5d4abbd6b012a018d6251afe21b4684d40abe0bf35"
+  version "1.3.2"
+  sha256 "5c89db8817e925da4bbdcff8b01dd1093248a24d6fc1942842c72ed42c4f4f25"
 
   url "https://github.com/musti-91/reaProxy/releases/download/#{version}/RaeProxy-#{version}-arm64.dmg"
   name "Rae Proxy"
